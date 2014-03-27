@@ -1,0 +1,17 @@
+Matriks 1
+Ukuran efektif baris (1-100) = Ukuran efektif kolom (1-100) = Baris ke-1
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Baris ke-2
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Baris ke-3
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = [9 8 7]
+[6 5 4]
+[3 2 1]
+Matriks 2
+Ukuran efektif baris (1-100) = Ukuran efektif kolom (1-100) = Baris ke-1
+Kolom ke-1 = Kolom ke-2 = Baris ke-2
+Kolom ke-1 = Kolom ke-2 = Baris ke-3
+Kolom ke-1 = Kolom ke-2 = [4 5]
+[6 7]
+[8 8]
+Pilihan menu (1-4) = Matriks 1 adalah matriks bujur sangkar
+Matriks 1 bukan matriks simetris
+Matriks 1 bukan matriks sparse

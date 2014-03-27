@@ -1,0 +1,16 @@
+Matriks 1
+Ukuran efektif baris (1-100) = Ukuran efektif kolom (1-100) = Baris ke-1
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Baris ke-2
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Baris ke-3
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = [0 0 0]
+[1 1 1]
+[0 0 0]
+Matriks 2
+Ukuran efektif baris (1-100) = Ukuran efektif kolom (1-100) = Baris ke-1
+Kolom ke-1 = Kolom ke-2 = Baris ke-2
+Kolom ke-1 = Kolom ke-2 = Baris ke-3
+Kolom ke-1 = Kolom ke-2 = [4 5]
+[6 7]
+[8 8]
+Pilihan menu (1-4) = Hasil penjumlahan 2 matriks
+Ukuran matriks tidak sama, tidak bisa dijumlahkan

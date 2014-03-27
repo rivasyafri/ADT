@@ -1,0 +1,23 @@
+Matriks 1
+Ukuran efektif baris (1-100) = Ukuran efektif kolom (1-100) = Baris ke-1
+Kolom ke-1 = Kolom ke-2 = Baris ke-2
+Kolom ke-1 = Kolom ke-2 = Baris ke-3
+Kolom ke-1 = Kolom ke-2 = Baris ke-4
+Kolom ke-1 = Kolom ke-2 = [9 8]
+[7 6]
+[5 4]
+[3 2]
+Matriks 2
+Ukuran efektif baris (1-100) = Ukuran efektif kolom (1-100) = Baris ke-1
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Kolom ke-4 = Baris ke-2
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Kolom ke-4 = Baris ke-3
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Kolom ke-4 = Baris ke-4
+Kolom ke-1 = Kolom ke-2 = Kolom ke-3 = Kolom ke-4 = [1 2 3 4]
+[5 6 7 8]
+[9 10 11 12]
+[13 14 15 16]
+Pilihan menu (1-4) = Hasil transpose matriks 2
+[1 5 9 13]
+[2 6 10 14]
+[3 7 11 15]
+[4 8 12 16]
